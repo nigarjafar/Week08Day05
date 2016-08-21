@@ -1,0 +1,2 @@
+Salam #name# #surname#, #username# adı ilə saytımızdan qeydiyyatdan keçdinizi,
+Profilinizi aktive etmek ucun #link# -ə tiklayın
